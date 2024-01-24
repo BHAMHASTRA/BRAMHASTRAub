@@ -35,7 +35,7 @@ def heroku():
             try:
                 Heroku = heroku3.from_key(config.HEROKU_API_KEY)
                 HAPP = Heroku.app(config.HEROKU_APP_NAME)
-                LOGGER("AltSpam").info("™°‌ 🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 𝗖𝗢𝗡𝗙𝗜𝗚𝗨𝗥𝗘𝗗 𝗦𝗨𝗦𝗦𝗘𝗦𝗙𝗨𝗟𝗟𝗬 !")
+                LOGGER("AltSpam").info("™°‌ 𝗕𝗥𝗔𝗠𝗛𝗔𝗦𝗧𝗥𝗔 𝗗𝗘𝗣𝗟𝗢𝗬𝗘𝗗 !")
             except BaseException:
                 LOGGER("AltSpam").warning("𝗕𝗛𝗦𝗗𝗞 𝗛𝗘𝗥𝗢𝗞𝗨 𝗜𝗗 𝗦𝗔𝗛𝗜 𝗦𝗘 𝗗𝗔𝗟 𝗟𝗘!")
                 
