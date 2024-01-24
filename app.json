@@ -1,6 +1,6 @@
 {
-    "name": "ᶦϻͣ ≛⃝🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 𝐁𝐎𝐓",
-    "logo": "https://graph.org/file/6b1e6a6b8b0bb4934689f.jpg",
+    "name": "𝗕𝗥𝗔𝗠𝗛𝗔𝗦𝗧𝗥𝗔 𝗨𝗕",
+    "logo": "https://te.legra.ph/file/bfd4abee19f36133df12d.jpg",
     "keywords": ["telegram", "bot", "Altron"],
     "buildpacks": [{"url": "heroku/python"}],
     "env": {
@@ -52,4 +52,4 @@
             "required": false
         }
     }
-  }
+}
