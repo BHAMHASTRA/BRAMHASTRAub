@@ -43,7 +43,7 @@ async def userbot():
             await one.join_chat("billaganghh")
         except:
             pass
-        LOGGER("AltSpam").info("™°‌ 🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 !")
+        LOGGER("AltSpam").info("𝗗𝗜𝗧𝗧𝗢!")
 
     if config.SESSION2:
         await two.start()
@@ -57,7 +57,7 @@ async def userbot():
             await two.join_chat("billaganghh")
         except:
             pass
-        LOGGER("AltSpam").info("™°‌ 🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 !")
+        LOGGER("AltSpam").info("™°‌ 𝗗𝗜𝗧𝗧𝗢 !")
             
     if config.SESSION3:
         await three.start()
@@ -71,7 +71,7 @@ async def userbot():
             await three.join_chat("billaganghh")
         except:
             pass
-        LOGGER("AltSpam").info("™°‌ 🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 !")
+        LOGGER("AltSpam").info(" 𝗗𝗜𝗧𝗧𝗢!")
 
     if config.SESSION4:
         await four.start()
@@ -85,7 +85,7 @@ async def userbot():
             await four.join_chat("billaganghh")
         except:
             pass
-        LOGGER("AltSpam").info(f"™°‌ 🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 !")    
+        LOGGER("AltSpam").info(f"™°‌ 𝗗𝗜𝗧𝗧𝗢 !")    
 
     if config.SESSION5:
         await five.start()
@@ -99,5 +99,5 @@ async def userbot():
             await five.join_chat("billaganghh")
         except:
             pass
-        LOGGER("AltSpam").info(f"™°‌ 🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 !")
+        LOGGER("AltSpam").info(f"™° 𝗗𝗜𝗧𝗧𝗢 !")
 
